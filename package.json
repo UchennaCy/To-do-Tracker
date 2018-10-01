@@ -1,0 +1,30 @@
+{
+  "name": "to-do-tracker",
+  "version": "1.0.0",
+  "description": "An activity tracking application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiseCyril/To-do-Tracker.git"
+  },
+  "keywords": [
+    "To-do",
+    "list",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "DOM"
+  ],
+  "author": "Nnamadim Cyril Uchenna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiseCyril/To-do-Tracker/issues"
+  },
+  "homepage": "https://github.com/WiseCyril/To-do-Tracker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
